@@ -13,6 +13,10 @@
     "extensionDependencies": [ 
         "LawrenceGrant.cql",
         "PeterJausovec.vscode-docker",
-        "humao.rest-client"
+        "humao.rest-client",
+        "slevesque.vscode-hexdump",
+        "ms-vscode.wordcount",
+        "robertohuertasm.vscode-icons",
+        "chrmarti.regex"
     ]
 }
