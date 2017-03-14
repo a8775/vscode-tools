@@ -1,0 +1,18 @@
+{
+    "name": "vscode-tools",
+    "displayName": "vscode-tools",
+    "description": "Nice tools for the vscode",
+    "version": "0.0.1",
+    "publisher": "a8775",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "LawrenceGrant.cql",
+        "PeterJausovec.vscode-docker",
+        "humao.rest-client"
+    ]
+}
